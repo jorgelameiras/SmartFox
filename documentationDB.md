@@ -1,6 +1,8 @@
 # SmartFox API Documentation
 Tentative url:https://62cb-2603-9001-2af0-4c60-30e4-9954-ebdb-809.ngrok-free.app
 Url will change on host disconnect/reconnect - Url must be updated and verified before presentation
+
+
 Endpoints
 1. Home
 
